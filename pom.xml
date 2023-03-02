@@ -41,8 +41,8 @@
                 <activeByDefault>true</activeByDefault>
             </activation>
            <properties>
-               <sonar.host.url>https://sonar-war-project.apps.cluster-b8gnt.b8gnt.sandbox2818.opentlc.com/</sonar.host.url>
-	       <sonar.login>sqa_4f6a7dd742c12c3e4fa8f1cff0c1488d0362ecf0</sonar.login>
+               <sonar.host.url>https://sonar-argocd.apps.cluster-jmqkj.jmqkj.sandbox2507.opentlc.com/</sonar.host.url>
+	       <sonar.login>sqa_722fd969fe69e8272e9d707fbb73045f5defc7ce</sonar.login>
                <sonar.projectName>ci-pipeline</sonar.projectName>
                <sonar.projectVersion>main</sonar.projectVersion>
                <sonar.test.exclusions>**/test/**/*.*</sonar.test.exclusions>
