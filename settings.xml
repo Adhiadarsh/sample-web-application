@@ -7,16 +7,16 @@
   <proxies></proxies>
   <servers>
     <server>
-      <id>nexus-snap</id>
+      <id>adhi-snap</id>
       <username>admin</username>
       <password>admin123</password>
     </server>
   </servers>
   <mirrors>
     <mirror>
-      <id>nexus</id>
+      <id>adhi-proxy</id>
       <mirrorOf>*</mirrorOf>
-      <url>http://nexus-war-project.apps.cluster-b8gnt.b8gnt.sandbox2818.opentlc.com/repository/nexus-proxy/</url>
+      <url>http://nexus-argocd.apps.cluster-jmqkj.jmqkj.sandbox2507.opentlc.com/repository/adhi-proxy/</url>
     </mirror>
   </mirrors>
   <profiles>
@@ -34,9 +34,9 @@
      <id>snapshot</id>
      <repositories>
        <repository>
-         <id>nexus-snap</id>
+         <id>adhi-snap</id>
          <name>your custom repo</name>
-         <url>http://nexus-war-project.apps.cluster-b8gnt.b8gnt.sandbox2818.opentlc.com/repository/nexus-snap/</url>
+         <url>http://nexus-argocd.apps.cluster-jmqkj.jmqkj.sandbox2507.opentlc.com/repository/adhi-snap/</url>
        </repository>      
      </repositories>
           
@@ -45,9 +45,9 @@
      <id>release</id>
      <repositories>
        <repository>
-         <id>nexus-snap</id>
+         <id>adhi-snap</id>
          <name>your custom repo</name>
-         <url>http://nexus-war-project.apps.cluster-b8gnt.b8gnt.sandbox2818.opentlc.com/repository/nexus-snap/</url>
+         <url>http://nexus-argocd.apps.cluster-jmqkj.jmqkj.sandbox2507.opentlc.com/repository/adhi-snap/</url>
        </repository>
      </repositories>
    </profile>
