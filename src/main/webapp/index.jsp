@@ -50,7 +50,7 @@
 <!-- Main jumbotron for a primary marketing message or call to action -->
 <div class="jumbotron">
     <div class="container">
-        <h1>Hi i'm Adhi welcome everyone</h1>
+        <h1>WELCOME TO ALL</h1>
         <p>This is from Dev Environment </p>
         <p><a class="btn btn-primary btn-lg" role="button">Learn more &raquo;</a></p>
     </div>
