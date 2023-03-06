@@ -51,7 +51,7 @@
 <div class="jumbotron">
     <div class="container">
         <h1>WELCOME TO ALL </h1>
-        <p>This is from Dev Environment</p>
+        <p>This is IMSS Devops Team...</p>
         <p><a class="btn btn-primary btn-lg" role="button">Learn more &raquo;</a></p>
     </div>
 </div>
