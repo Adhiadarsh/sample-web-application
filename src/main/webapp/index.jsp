@@ -50,7 +50,7 @@
 <!-- Main jumbotron for a primary marketing message or call to action -->
 <div class="jumbotron">
     <div class="container">
-        <h1>WELCOME TO ALL IMSS</h1>
+        <h1>WELCOME TO IMSS</h1>
         <p>IMSS Devops Team...  Monitor the entire development lifecycle from planning, development, integration and testing, deployment, and operations. </p>
         <p><a class="btn btn-primary btn-lg" role="button">Learn more &raquo;</a></p>
     </div>
