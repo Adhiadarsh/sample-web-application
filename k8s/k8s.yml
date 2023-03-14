@@ -15,7 +15,7 @@ spec:
         app: webapp
     spec:
       containers:
-        - image: quay.io/adhis/argocd
+        - image: quay.io/adhis/argocd:latest
           imagePullPolicy: Always
           name: webapp
           ports:
