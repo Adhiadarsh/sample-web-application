@@ -21,7 +21,7 @@
     <![endif]-->
 </head>
 
-<body style="color:red">
+<body style="background-color:powderblue;">
 <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
     <div class="container">
         <div class="navbar-header">
