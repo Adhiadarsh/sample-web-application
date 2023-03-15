@@ -17,7 +17,7 @@
 FROM tomcat:9.0.39-jdk14
 
 # Copy the WAR file to the Tomcat webapps directory
-COPY *.war /usr/local/tomcat/webapps/
+COPY target/*.war /usr/local/tomcat/webapps/
 
 # Expose the default Tomcat port
 EXPOSE 8080
