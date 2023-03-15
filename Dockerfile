@@ -14,7 +14,7 @@
 
 
 # Use an existing image as the base image
-FROM tomcat:9-jdk11-openjdk
+FROM tomcat:9.0.39-jdk14
 
 # Copy the JSP file to the webapps directory in the container
 COPY index.jsp /usr/local/tomcat/webapps/ROOT/
