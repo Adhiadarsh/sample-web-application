@@ -13,14 +13,15 @@
 
 
 
-# Use an existing image as the base image
+# Use Tomcat as the base image
 FROM tomcat:9.0.39-jdk14
 
-# Copy the JSP file to the webapps directory in the container
-COPY index.jsp /usr/local/tomcat/webapps/ROOT/
+# Copy the WAR file to the Tomcat webapps directory
+COPY *.war /usr/local/tomcat/webapps/
 
 # Expose the default Tomcat port
 EXPOSE 8080
 
-# Start Tomcat when the container is run
+# Set the default command to start Tomcat
 CMD ["catalina.sh", "run"]
+
