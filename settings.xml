@@ -16,7 +16,7 @@
     <mirror>
       <id>adhi-proxy</id>
       <mirrorOf>*</mirrorOf>
-      <url>http://nexus-argocd.apps.cluster-9hfdq.9hfdq.sandbox2807.opentlc.com/repository/adhi-proxy/</url>
+      <url>http://nexus-argocd.apps.cluster-9cdkx.9cdkx.sandbox1031.opentlc.com/repository/adhi-proxy/</url>
     </mirror>
   </mirrors>
   <profiles>
@@ -36,7 +36,7 @@
        <repository>
          <id>adhi-snap</id>
          <name>your custom repo</name>
-         <url>http://nexus-argocd.apps.cluster-9hfdq.9hfdq.sandbox2807.opentlc.com/repository/adhi-snap/</url>
+         <url>http://nexus-argocd.apps.cluster-9cdkx.9cdkx.sandbox1031.opentlc.com/repository/adhi-snap/</url>
        </repository>      
      </repositories>
           
@@ -47,7 +47,7 @@
        <repository>
          <id>adhi-snap</id>
          <name>your custom repo</name>
-         <url>http://nexus-argocd.apps.cluster-9hfdq.9hfdq.sandbox2807.opentlc.com/repository/adhi-snap/</url>
+         <url>http://nexus-argocd.apps.cluster-9cdkx.9cdkx.sandbox1031.opentlc.com/repository/adhi-snap/</url>
        </repository>
      </repositories>
    </profile>
