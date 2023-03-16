@@ -41,8 +41,8 @@
                 <activeByDefault>true</activeByDefault>
             </activation>
            <properties>
-               <sonar.host.url>https://sonar-argocd.apps.cluster-9hfdq.9hfdq.sandbox2807.opentlc.com/</sonar.host.url>
-	       <sonar.login>sqa_76092f174b9d85650ddaf2ae28887c1a6ca9f229</sonar.login>
+               <sonar.host.url>https://sonar-argocd.apps.cluster-9cdkx.9cdkx.sandbox1031.opentlc.com/</sonar.host.url>
+	       <sonar.login>sqa_7604d5b31217aad9d5d32a3a17c00db4e6db2e29</sonar.login>
                <sonar.projectName>ci-pipeline</sonar.projectName>
                <sonar.projectVersion>main</sonar.projectVersion>
                <sonar.test.exclusions>**/test/**/*.*</sonar.test.exclusions>
@@ -55,11 +55,11 @@
 	<distributionManagement>
     <snapshotRepository>
       <id>adhi-snap</id>
-      <url>http://nexus-argocd.apps.cluster-9hfdq.9hfdq.sandbox2807.opentlc.com/repository/adhi-snap/</url>
+      <url>http://nexus-argocd.apps.cluster-9cdkx.9cdkx.sandbox1031.opentlc.com/repository/adhi-snap/</url>
     </snapshotRepository>
 	<repository>
 	  <id>adhi-snap</id>
-      <url>http://nexus-argocd.apps.cluster-9hfdq.9hfdq.sandbox2807.opentlc.com/repository/adhi-snap/</url>
+      <url>http://nexus-argocd.apps.cluster-9cdkx.9cdkx.sandbox1031.opentlc.com/repository/adhi-snap/</url>
     </repository>
   
   </distributionManagement>
