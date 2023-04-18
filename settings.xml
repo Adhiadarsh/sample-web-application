@@ -36,7 +36,7 @@
        <repository>
          <id>adhi-snap</id>
          <name>your custom repo</name>
-         <url>http://nexus-argocd.apps.cluster-grd66.grd66.sandbox2545.opentlc.com/repository/adhi-snap/</url>
+         <url>http://nexus-aargocd.apps.ocp4.imss.com/repository/adhi-snap/</url>
        </repository>      
      </repositories>
           
@@ -47,7 +47,7 @@
        <repository>
          <id>adhi-snap</id>
          <name>your custom repo</name>
-         <url>http://nexus-argocd.apps.cluster-grd66.grd66.sandbox2545.opentlc.com/repository/adhi-snap/</url>
+         <url>http://nexus-aargocd.apps.ocp4.imss.com/repository/adhi-snap/</url>
        </repository>
      </repositories>
    </profile>
