@@ -50,8 +50,6 @@
             </properties>
           </profile>
         </profiles> -->
-	
-	
 	<distributionManagement>
     <snapshotRepository>
       <id>adhi-snap</id>
