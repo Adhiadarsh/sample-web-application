@@ -36,7 +36,7 @@
        <repository>
          <id>adhi-snap</id>
          <name>your custom repo</name>
-         <url>http://nexus-aargocd.apps.ocp4.imss.com/repository/adhi-snap/</url>
+         <url>http://nexus-tkn-argocd-service-mesh.apps.cluster-sjjvk.sjjvk.sandbox2693.opentlc.com/repository/adhi-snap/</url>
        </repository>      
      </repositories>
           
@@ -47,7 +47,7 @@
        <repository>
          <id>adhi-snap</id>
          <name>your custom repo</name>
-         <url>http://nexus-aargocd.apps.ocp4.imss.com/repository/adhi-snap/</url>
+         <url>http://nexus-tkn-argocd-service-mesh.apps.cluster-sjjvk.sjjvk.sandbox2693.opentlc.com/repository/adhi-snap/</url>
        </repository>
      </repositories>
    </profile>
