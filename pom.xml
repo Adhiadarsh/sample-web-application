@@ -40,8 +40,8 @@
                 <activeByDefault>true</activeByDefault>
             </activation>
            <properties>
-               <sonar.host.url>https://sonar-argocd.apps.cluster-grd66.grd66.sandbox2545.opentlc.com/</sonar.host.url>
-	       <sonar.login>sqa_f5e467c13b34d61b7310dd6de27f4ab6c649f035</sonar.login>
+               <sonar.host.url>https://sonar-tkn-argocd-service-mesh.apps.cluster-sjjvk.sjjvk.sandbox2693.opentlc.com/</sonar.host.url>
+	       <sonar.login>sqp_fb207e893aea80673db82d9cf1b9befc7e26b23f</sonar.login>
                <sonar.projectName>ci-pipeline</sonar.projectName>
                <sonar.projectVersion>main</sonar.projectVersion>
                <sonar.test.exclusions>**/test/**/*.*</sonar.test.exclusions>
