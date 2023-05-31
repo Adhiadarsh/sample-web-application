@@ -69,8 +69,8 @@
                 <activeByDefault>true</activeByDefault>
             </activation>
            <properties>
-               <sonar.host.url>https://sonar-t-a-s.apps.cluster-lbf379.lbf379.sandbox2737.opentlc.com</sonar.host.url>
-	       <sonar.login>sqa_770287d4f6e5de7132a80b21b2435aae63951cc1</sonar.login>
+               <sonar.host.url>https://sonar-t-a-s.apps.cluster-lbf379.lbf379.sandbox2737.opentlc.com/</sonar.host.url>
+	       <sonar.login>sqa_326f477d4420b7553fc1281a36defbb319e19770</sonar.login>
                <sonar.projectName>demo</sonar.projectName>
                <sonar.projectVersion>main</sonar.projectVersion>
                <sonar.test.exclusions>**/test/**/*.*</sonar.test.exclusions>
