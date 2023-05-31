@@ -74,8 +74,8 @@
                 <activeByDefault>true</activeByDefault>
             </activation>
            <properties>
-               <sonar.host.url>https://sonar-tkn-argocd-service-mesh.apps.cluster-sjjvk.sjjvk.sandbox2693.opentlc.com/</sonar.host.url>
-	       <sonar.login>sqa_ab38d996294f977ad44053ede1ff12f0fc8e1dc5</sonar.login>
+               <sonar.host.url>https://sonar-t-a-s.apps.cluster-lbf379.lbf379.sandbox2737.opentlc.com/</sonar.host.url>
+	       <sonar.login>sqa_770287d4f6e5de7132a80b21b2435aae63951cc1</sonar.login>
                <sonar.projectName>demo</sonar.projectName>
                <sonar.projectVersion>main</sonar.projectVersion>
                <sonar.test.exclusions>**/test/**/*.*</sonar.test.exclusions>
@@ -86,11 +86,11 @@
 	<distributionManagement>
     <snapshotRepository>
       <id>adhi-snap</id>
-      <url>http://nexus-tkn-argocd-service-mesh.apps.cluster-sjjvk.sjjvk.sandbox2693.opentlc.com/repository/adhi-snap/</url>
+      <url>http://nexus-t-a-s.apps.cluster-lbf379.lbf379.sandbox2737.opentlc.com/repository/adhi-snap/</url>
     </snapshotRepository>
 	<repository>
 	  <id>adhi-snap</id>
-      <url>http://nexus-tkn-argocd-service-mesh.apps.cluster-sjjvk.sjjvk.sandbox2693.opentlc.com/repository/adhi-snap/</url>
+      <url>http://nexus-t-a-s.apps.cluster-lbf379.lbf379.sandbox2737.opentlc.com/repository/adhi-snap/</url>
     </repository>
   
   </distributionManagement>
