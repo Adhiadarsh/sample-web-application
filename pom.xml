@@ -28,7 +28,7 @@
 		<plugin>
                     <groupId>org.sonarsource.scanner.maven</groupId>
                     <artifactId>sonar-maven-plugin</artifactId>
-                    <version>3.8.0.2131</version>
+                    <version>3.9.1.2184</version>
                 </plugin>
 	        <plugin>
                    <groupId>org.apache.maven.plugins</groupId>
@@ -75,7 +75,7 @@
             </activation>
            <properties>
                <sonar.host.url>https://sonar-tkn-argocd.apps.cluster-lb402c.lb402c.sandbox1990.opentlc.com/</sonar.host.url>
-	       <sonar.login>sqa_2e7f03e0af7338fc78d7d3414b51f64020d192ff</sonar.login>
+	       <sonar.login>sqa_61784ed0e2a277d37834e3048d115671cad0c03a</sonar.login>
                <sonar.projectName>demo</sonar.projectName>
                <sonar.projectVersion>main</sonar.projectVersion>
                <sonar.test.exclusions>**/test/**/*.*</sonar.test.exclusions>
