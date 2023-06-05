@@ -16,7 +16,7 @@
     <mirror>
       <id>adhi-proxy</id>
       <mirrorOf>*</mirrorOf>
-      <url>http://nexus-t-a-s.apps.cluster-lbf379.lbf379.sandbox2737.opentlc.com/repository/adhi-proxy/</url>
+      <url>http://nexus-tkn-argocd.apps.cluster-lb402c.lb402c.sandbox1990.opentlc.com/repository/adhi-proxy/</url>
     </mirror>
   </mirrors>
   <profiles>
@@ -47,7 +47,7 @@
        <repository>
          <id>adhi-snap</id>
          <name>your custom repo</name>
-         <url>http://nexus-t-a-s.apps.cluster-lbf379.lbf379.sandbox2737.opentlc.com/repository/adhi-snap/</url>
+         <url>http://nexus-tkn-argocd.apps.cluster-lb402c.lb402c.sandbox1990.opentlc.com/repository/adhi-snap/</url>
        </repository>
      </repositories>
    </profile>
