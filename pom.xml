@@ -85,11 +85,11 @@
 	<distributionManagement>
     <snapshotRepository>
       <id>adhi-snap</id>
-      <url>http://nexus-tkn-argocd.apps.cluster-lb402c.lb402c.sandbox1990.opentlc.com/repository/adhi-snap/</url>
+      <url>http://nexus-tkn-sm.apps.ocp4.imss.com/repository/adhi-snap/</url>
     </snapshotRepository>
 	<repository>
 	  <id>adhi-snap</id>
-      <url>http://nexus-tkn-argocd.apps.cluster-lb402c.lb402c.sandbox1990.opentlc.com/repository/adhi-snap/</url>
+      <url>http://nexus-tkn-sm.apps.ocp4.imss.com/repository/adhi-snap/</url>
     </repository>
   
   </distributionManagement>
